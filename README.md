@@ -14,3 +14,7 @@
     4th -> do my changes.
     5th -> push changes to my repo.
     6th -> Do a Pull Request.
+
+    ------------------------
+    UPDATE SUMMARY:
+    This Task is all about learning how Git/Github works and it contains 2 parts (Theoritical, Practical).
